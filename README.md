@@ -1,2 +1,2 @@
 # python-practice-
-some work in my python class 😊
+some practices in my python class....
