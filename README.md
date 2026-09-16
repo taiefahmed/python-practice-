@@ -1,2 +1,3 @@
-# python-practice-
-some practices in my python class....
+# python practice
+some practices in my python class
+
